@@ -182,7 +182,7 @@ open.spotify.com
 outlook.live.com
 outlook.office365.com
 p.scdn.co
-play-fe.googleapis.com
+#play-fe.googleapis.com #Google-Play in-app purchases
 play.google.com
 play.googleapis.com
 play.spotify.com
