@@ -78,7 +78,6 @@ googlehosted.l.googleusercontent.com
 graph.whatsapp.net
 gslb.spotify.com
 gwapi.zee5.com-v2.edgekey.net
-https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/whitelist.txt
 i.scdn.co
 i1.ytimg.com
 i9.ytimg.com
@@ -183,7 +182,7 @@ open.spotify.com
 outlook.live.com
 outlook.office365.com
 p.scdn.co
-play-fe.googleapis.com#GooglePlayStoreIn-Apppurchases
+play-fe.googleapis.com
 play.google.com
 play.googleapis.com
 play.spotify.com
